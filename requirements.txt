@@ -26,7 +26,7 @@ isort==4.3.21
 itsdangerous==0.24
 jellyfish==0.7.2
 Jinja2>=2.10.1
-joblib==0.14.0
+joblib==1.2.0
 lazy-object-proxy==1.4.2
 Mako==1.0.7
 MarkupSafe==1.0
